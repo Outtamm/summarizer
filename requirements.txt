@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+transformers
+streamlit
+pymupdf
+PyPDF2
+
